@@ -7,8 +7,8 @@ The app will also be developed as a PWA (Progressive Web App) so that it can be 
 
 ### Technologies
 The project will be implemented using the following technologies:
-- Frontend: Svelte
-- Backend: Node.js
+- Frontend: Svelte w/ TypeScript
+- Backend: Sveltekit
 - Database: Supabase
 - API: [IGDB](https://www.igdb.com/api)
 
